@@ -10,4 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <b>Github user stats:</b><br>
 [![Hào Nghiêm's github stats](https://github-readme-stats.vercel.app/api?username=qtvhao&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtvhao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
