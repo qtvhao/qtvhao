@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtvhao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nomic-ai/gpt4all,hwchase17/langchain&type=Date)](https://star-history.com/#nomic-ai/gpt4all&hwchase17/langchain&Date)
