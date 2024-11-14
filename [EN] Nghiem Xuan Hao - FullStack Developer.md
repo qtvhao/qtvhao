@@ -133,6 +133,8 @@ Full-stack developer with 7+ years of experience in web development, cloud infra
   * Designed repository pattern for flexible data management and enhanced testability.
   * Created event-driven mechanisms for updating device access timestamps, ensuring system modularity and scalability.
 
+**Adaptive Bitrate Proxy**
+
 * **Main Server**: Stores all original video data and manages the system.
 * **Transcoding Proxy**: Converts videos into various formats and resolutions.
 * **Reverse Proxy**: Manages incoming user requests, balancing the load and adding security.
