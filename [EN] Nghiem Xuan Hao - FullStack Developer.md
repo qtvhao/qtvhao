@@ -95,17 +95,16 @@ Full-stack developer with 7+ years of experience in web development, cloud infra
 *Leveraged my skills in*: Trello, Agile/Scrum, , problem-solving & analytical thinking, collaboration, adaptability
 
 ---
-
 ## SKILLS
 
-	•	**Languages**: JavaScript, PHP, Python, SQL, Bash  
-	•	**Frontend**: Vue.js, Phaser.js, CSS, HTML, jQuery  
-	•	**Backend**: Node.js, Laravel, Magento, ORM  
-	•	**DevOps**: Wide number of AWS services, Kubernetes, Terraform, Docker, CI/CD  
-	•	**Tools**: GitLab, Varnish, Redis, Grafana, Jenkins  
-	•	**Cloud Services**: AWS, GCP, DigitalOcean  
-	•	**Testing**: Cypress, Jest, End-to-End Testing, PHPUnit  
-	•	**Automation**: 
+- **Languages**: JavaScript, PHP, Python, SQL, Bash  
+- **Frontend**: Vue.js, Phaser.js, CSS, HTML, jQuery  
+- **Backend**: Node.js, Laravel, Magento, ORM  
+- **DevOps**: AWS services, Kubernetes, Terraform, Docker, CI/CD  
+- **Tools**: GitLab, Varnish, Redis, Grafana, Jenkins  
+- **Cloud Services**: AWS, GCP, DigitalOcean  
+- **Testing**: Cypress, Jest, End-to-End Testing, PHPUnit  
+- **Automation**: 
 
 ---
 
