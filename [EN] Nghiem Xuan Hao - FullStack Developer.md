@@ -123,6 +123,17 @@ Full-stack developer with 7+ years of experience in web development, cloud infra
 
 ## Open Source Contributions
 
+**Device Access Control System**
+
+* Project: [Device Access Control](https://github.com/qtvhao/device-access-control) - Mã nguồn mở quản lý truy cập thiết bị
+* Technologies: PHP, Laravel, Event-Driven Architecture, Repository Pattern, Unit Testing, Caching Decorators
+* Description: Contributed to a device access management system designed to handle multi-device support, usage limits, and efficient access time tracking.
+* Key Contributions:
+  * Developed core use cases (e.g., device limit checking, new device registration, and access time updates).
+  * Implemented caching decorators to reduce database load.
+  * Designed repository pattern for flexible data management and enhanced testability.
+  * Created event-driven mechanisms for updating device access timestamps, ensuring system modularity and scalability.
+
 **Online Video Platform**
 
 1. Main Server: Stores all original video data and manages the system.  
