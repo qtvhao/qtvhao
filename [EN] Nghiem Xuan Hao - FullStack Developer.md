@@ -133,15 +133,13 @@ Full-stack developer with 7+ years of experience in web development, cloud infra
   * Designed repository pattern for flexible data management and enhanced testability.
   * Created event-driven mechanisms for updating device access timestamps, ensuring system modularity and scalability.
 
-**Online Video Platform**
-
-1. Main Server: Stores all original video data and manages the system.  
-2. Transcoding Proxy: Converts videos into various formats and resolutions.  
-3. Reverse Proxy: Manages incoming user requests, balancing the load and adding security.  
-4. CDN Proxy: Delivers video copies from servers closer to the user, making streaming faster.  
-5. Caching Proxy: Temporarily holds frequently accessed videos to reduce loading times.  
-6. Edge Proxy Servers: Provide local delivery of content to nearby users.  
-7. ABR Proxy: Adjusts the video quality based on internet speed, ensuring smooth playback.
+* **Main Server**: Stores all original video data and manages the system.
+* **Transcoding Proxy**: Converts videos into various formats and resolutions.
+* **Reverse Proxy**: Manages incoming user requests, balancing the load and adding security.
+* **CDN Proxy**: Delivers video copies from servers closer to the user, making streaming faster.
+* **Caching Proxy**: Temporarily holds frequently accessed videos to reduce loading times.
+* **Edge Proxy Servers**: Provide local delivery of content to nearby users.
+* **ABR Proxy**: Adjusts the video quality based on internet speed, ensuring smooth playback.
 
 This project includes proxies for video delivering:
 
