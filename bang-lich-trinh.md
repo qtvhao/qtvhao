@@ -1,7 +1,7 @@
 Dưới đây là lịch trình đã được cập nhật:
 
-```
-Bảng lịch trình
+```plaintext
+Bảng lịch trình công việc hàng ngày
 Thời gian	Hoạt động	Ghi chú
 06:00 - 06:10	Thức dậy, uống nước, vệ sinh cá nhân	Uống 200ml nước, rửa mặt, đánh răng. 🚰🪥
 06:10 - 06:20	Giãn cơ và tập nhẹ buổi sáng	Vươn vai, yoga hoặc vài động tác kéo giãn cơ. 🧘‍♂️
@@ -22,5 +22,5 @@ Thời gian	Hoạt động	Ghi chú
 23:00 - 23:20	Tập thể dục buổi tối	Cardio nhẹ nhàng (tối đa 10 phút) + hạ nhiệt. 🏃‍♂️🧘‍♂️
 23:20 - 23:40	Bữa nhẹ trước khi ngủ	Sữa ấm, chuối hoặc bánh quy. 🥛🍌🍪
 23:40 - 24:00	Thư giãn	Nghe nhạc, thiền hoặc thả lỏng cơ thể. 🌙🎵
-00:00 - 07:00	Ngủ đủ giấc	Đảm bảo không bị gián đoạn, tạo không gian yên tĩnh. 🛌😴
+00:00 - 06:00	Ngủ đủ giấc	Đảm bảo không bị gián đoạn, tạo không gian yên tĩnh. 🛌😴
 ```
